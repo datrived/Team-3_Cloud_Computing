@@ -25,4 +25,9 @@ The code is in index.html website which was one of the risk mitigation strategy.
 Below is the link of actual website. You need bootstrap 3.3.7 package for running html code.
 
 
+ThoTh Lab link
+
+http://gitlab.thothlab.org/devanshi-trivedi/Devil_May_Cry_team_3
+
+
 http://devanshitrivedi.com/
