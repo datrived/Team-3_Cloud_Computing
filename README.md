@@ -1,5 +1,5 @@
 # Team-3_Cloud_Computing
-Team-3 Fall 2016
+Team 3 Fall-2016
 Screenshot Description:
 
 
@@ -25,11 +25,12 @@ The code is in index.html website which was one of the risk mitigation strategy.
 Below is the link of actual website. You need bootstrap 3.3.7 package for running html code.
 
 
-
-
 http://devanshitrivedi.com/
 
-ThoTh Lab link
+Filename       Purpose          New/ Modified     Comments
+word_mapper.py Mapper Program     New            Maps input file stream to cluster.
+word_reducer.py Reducer Program   New            reduce  individual word count to the final total count.
+Twitter_Data.py   Fetch Tweets     New            fetch tweets at perticlar street
 
-http://gitlab.thothlab.org/devanshi-trivedi/Devil_May_Cry_team_3
-
+Youtube video link
+https://youtu.be/9UIX2oRFDAw
